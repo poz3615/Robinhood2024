@@ -1,0 +1,116 @@
+﻿Trait,Error,Error.Type,Species,Count,Genus,Temp,Continents,Host,Climate,Size
+7,,,Ixodes anatis,3,Ixodes,10,One,Three,Temperate,Medium
+9,,,Ixodes anatis,3,Ixodes,15,One,Three,Temperate,Medium
+9,,,Ixodes anatis,3,Ixodes,15,One,Three,Temperate,Medium
+9,,,Ixodes anatis,3,Ixodes,20,One,Three,Temperate,Medium
+18.1,2.3,se,Haemaphysalis leporispalustris,10,Haemaphysalis,14.7,Two,Three,Mixed,Small
+21,0.9,se,Haemaphysalis leporispalustris,30,Haemaphysalis,19.9,Two,Three,Mixed,Small
+12.2,1,se,Haemaphysalis leporispalustris,29,Haemaphysalis,25.2,Two,Three,Mixed,Small
+8.6,0.5,se,Haemaphysalis leporispalustris,29,Haemaphysalis,29.7,Two,Three,Mixed,Small
+7.7,0.6,se,Haemaphysalis leporispalustris,26,Haemaphysalis,35.6,Two,Three,Mixed,Small
+20.5,2.25,se,Hyalomma dromedarii,55,Hyalomma,21,Two,Two,Subtropical,Medium
+41.2,1.42,se,Hyalomma dromedarii,55,Hyalomma,25,Two,Two,Subtropical,Medium
+12.4,0.21,se,Hyalomma dromedarii,55,Hyalomma,29,Two,Two,Subtropical,Medium
+10.2,0.17,se,Hyalomma dromedarii,55,Hyalomma,34,Two,Two,Subtropical,Medium
+33.3,12.3,se,Haemaphysalis leporispalustris,6,Haemaphysalis,27,Two,Three,Mixed,Small
+31.9,10.8,se,Haemaphysalis leporispalustris,8,Haemaphysalis,27,Two,Three,Mixed,Small
+24,3.3,se,Haemaphysalis leporispalustris,5,Haemaphysalis,27,Two,Three,Mixed,Small
+8.8,4,se,Dermacentor andersoni,21,Dermacentor,12.5,One,Three,Temperate,Large
+21.5,5.5,se,Dermacentor andersoni,21,Dermacentor,15,One,Three,Temperate,Large
+25.2,2.8,se,Dermacentor andersoni,21,Dermacentor,20,One,Three,Temperate,Large
+12.3,1.1,se,Dermacentor andersoni,21,Dermacentor,25,One,Three,Temperate,Large
+9.7,0.4,se,Dermacentor andersoni,21,Dermacentor,30,One,Three,Temperate,Large
+36.5,5.6,se,Dermacentor andersoni,21,Dermacentor,12.5,One,Three,Temperate,Large
+32.5,2.3,se,Dermacentor andersoni,21,Dermacentor,15,One,Three,Temperate,Large
+24.3,2.4,se,Dermacentor andersoni,21,Dermacentor,20,One,Three,Temperate,Large
+15.5,0,se,Dermacentor andersoni,21,Dermacentor,25,One,Three,Temperate,Large
+12.3,1.1,se,Dermacentor andersoni,21,Dermacentor,30,One,Three,Temperate,Large
+32.1,5.3,se,Dermacentor andersoni,21,Dermacentor,12.5,One,Three,Temperate,Large
+40.6,4.1,se,Dermacentor andersoni,21,Dermacentor,15,One,Three,Temperate,Large
+26.3,1.6,se,Dermacentor andersoni,21,Dermacentor,20,One,Three,Temperate,Large
+16.5,0.7,se,Dermacentor andersoni,21,Dermacentor,25,One,Three,Temperate,Large
+15.3,0,se,Dermacentor andersoni,21,Dermacentor,30,One,Three,Temperate,Large
+37,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,16,More than two,One,Mixed,Small
+15,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,25,More than two,One,Mixed,Small
+9.3,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,35,More than two,One,Mixed,Small
+36.3,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,16,More than two,One,Mixed,Small
+13.6,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,25,More than two,One,Mixed,Small
+7.7,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,35,More than two,One,Mixed,Small
+41,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,16,More than two,One,Mixed,Small
+15,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,25,More than two,One,Mixed,Small
+9.7,,,Rhipicephalus (Boophilus) annulatus,18,Rhipicephalus,35,More than two,One,Mixed,Small
+15.2,,,Hyalomma aegyptium,1,Hyalomma,15,More than two,Three,Subtropical,Large
+7.9,,,Hyalomma aegyptium,1,Hyalomma,15,More than two,Three,Subtropical,Large
+32,,,Hyalomma aegyptium,1,Hyalomma,20,More than two,Three,Subtropical,Large
+23.1,,,Hyalomma aegyptium,1,Hyalomma,20,More than two,Three,Subtropical,Large
+18,,,Hyalomma aegyptium,1,Hyalomma,20,More than two,Three,Subtropical,Large
+29,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+16,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+10.9,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+8.9,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+6.9,,,Hyalomma aegyptium,1,Hyalomma,30,More than two,Three,Subtropical,Large
+9,,,Hyalomma aegyptium,1,Hyalomma,30,More than two,Three,Subtropical,Large
+10,,,Hyalomma aegyptium,1,Hyalomma,30,More than two,Three,Subtropical,Large
+12,,,Hyalomma aegyptium,1,Hyalomma,30,More than two,Three,Subtropical,Large
+13,,,Hyalomma aegyptium,1,Hyalomma,30,More than two,Three,Subtropical,Large
+23.1,,,Hyalomma aegyptium,1,Hyalomma,35,More than two,Three,Subtropical,Large
+12,,,Hyalomma aegyptium,1,Hyalomma,35,More than two,Three,Subtropical,Large
+12,,,Hyalomma aegyptium,1,Hyalomma,35,More than two,Three,Subtropical,Large
+12,,,Hyalomma aegyptium,1,Hyalomma,35,More than two,Three,Subtropical,Large
+10.9,,,Hyalomma aegyptium,1,Hyalomma,35,More than two,Three,Subtropical,Large
+8.9,,,Hyalomma aegyptium,1,Hyalomma,35,More than two,Three,Subtropical,Large
+10.8,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+6.9,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+5.9,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+29,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+22.1,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+20.9,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+13,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+10,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+8.9,,,Hyalomma aegyptium,1,Hyalomma,25,More than two,Three,Subtropical,Large
+19.1,,,Hyalomma aegyptium,1,Hyalomma,30,More than two,Three,Subtropical,Large
+17.1,,,Hyalomma aegyptium,1,Hyalomma,30,More than two,Three,Subtropical,Large
+52,,,Haemaphysalis longicornis,1,Haemaphysalis,15,More than two,Three,Temperate,Medium
+30,,,Haemaphysalis longicornis,1,Haemaphysalis,20,More than two,Three,Temperate,Medium
+23.3,,,Haemaphysalis longicornis,3,Haemaphysalis,25,More than two,Three,Temperate,Medium
+19,,,Haemaphysalis longicornis,3,Haemaphysalis,30,More than two,Three,Temperate,Medium
+21,3.2,se,Amblyomma lepidum,10,Amblyomma,27,One,Three,Tropical,Large
+20.3,2.34,se,Amblyomma lepidum,10,Amblyomma,27,One,Three,Tropical,Large
+20.2,1.17,se,Amblyomma lepidum,10,Amblyomma,27,One,Three,Tropical,Large
+15.8,1.17,se,Amblyomma lepidum,10,Amblyomma,27,One,Three,Tropical,Large
+17,1.55,se,Amblyomma lepidum,10,Amblyomma,27,One,Three,Tropical,Large
+21,1.41,se,Amblyomma lepidum,10,Amblyomma,35,One,Three,Tropical,Large
+19.3,1.75,se,Amblyomma lepidum,10,Amblyomma,35,One,Three,Tropical,Large
+19.3,1.37,se,Amblyomma lepidum,10,Amblyomma,35,One,Three,Tropical,Large
+16.3,1.5,se,Amblyomma lepidum,10,Amblyomma,35,One,Three,Tropical,Large
+18.8,2.23,se,Amblyomma lepidum,10,Amblyomma,35,One,Three,Tropical,Large
+37.95,2.2,se,Hyalomma schulzei,50,Hyalomma,21,Two,Two,Subtropical,Large
+26.29,1.5,se,Hyalomma schulzei,50,Hyalomma,25,Two,Two,Subtropical,Large
+20.96,0.42,se,Hyalomma schulzei,50,Hyalomma,28,Two,Two,Subtropical,Large
+18.86,0.8,se,Hyalomma schulzei,50,Hyalomma,34,Two,Two,Subtropical,Large
+28.9,2.6,sd,Dermacentor nitens,20,Dermacentor,20,Two,One,Tropical,Medium
+29.1,4.43,sd,Dermacentor nitens,18,Dermacentor,20,Two,One,Tropical,Medium
+30.5,6.09,sd,Dermacentor nitens,20,Dermacentor,20,Two,One,Tropical,Medium
+30.2,5.29,sd,Dermacentor nitens,20,Dermacentor,20,Two,One,Tropical,Medium
+20.1,4.82,sd,Dermacentor nitens,20,Dermacentor,25,Two,One,Tropical,Medium
+20.6,2.46,sd,Dermacentor nitens,19,Dermacentor,25,Two,One,Tropical,Medium
+23.4,3.38,sd,Dermacentor nitens,20,Dermacentor,25,Two,One,Tropical,Medium
+23.8,3.24,sd,Dermacentor nitens,20,Dermacentor,25,Two,One,Tropical,Medium
+14.7,4.33,sd,Dermacentor nitens,20,Dermacentor,30,Two,One,Tropical,Medium
+15.1,4.57,sd,Dermacentor nitens,20,Dermacentor,30,Two,One,Tropical,Medium
+13.2,5.54,sd,Dermacentor nitens,20,Dermacentor,30,Two,One,Tropical,Medium
+15.7,5.86,sd,Dermacentor nitens,20,Dermacentor,30,Two,One,Tropical,Medium
+13.1,3.82,sd,Dermacentor nitens,20,Dermacentor,35,Two,One,Tropical,Medium
+13.7,3.5,sd,Dermacentor nitens,20,Dermacentor,35,Two,One,Tropical,Medium
+14.4,2.33,sd,Dermacentor nitens,19,Dermacentor,35,Two,One,Tropical,Medium
+14.3,2.54,sd,Dermacentor nitens,19,Dermacentor,35,Two,One,Tropical,Medium
+26.1,1,SE,Hyalomma impeltatum,18,Hyalomma,21,Two,Three,Mixed,Large
+16.4,1.32,SE,Hyalomma impeltatum,18,Hyalomma,25,Two,Three,Mixed,Large
+15.6,1.33,SE,Hyalomma impeltatum,18,Hyalomma,29,Two,Three,Mixed,Large
+12,0.75,SE,Hyalomma impeltatum,18,Hyalomma,34,Two,Three,Mixed,Large
+21.3,1.5,sd,Hyalomma lusitanicum,3,Hyalomma,25,Two,Three,Subtropical,Small
+23.5,1.7,sd,Hyalomma lusitanicum,3,Hyalomma,25,Two,Three,Subtropical,Small
+27.3,0.6,sd,Hyalomma lusitanicum,3,Hyalomma,25,Two,Three,Subtropical,Small
+16.8,2.9,sd,Hyalomma lusitanicum,3,Hyalomma,35,Two,Three,Subtropical,Small
+17.3,1.2,sd,Hyalomma lusitanicum,3,Hyalomma,35,Two,Three,Subtropical,Small
+23.3,3.5,sd,Hyalomma lusitanicum,3,Hyalomma,35,Two,Three,Subtropical,Small
